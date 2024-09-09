@@ -17,4 +17,4 @@ export const createPostagem = async (request, response) => {
         response.status(500).json({ message: "Erro ao publicar a postagem" })
     }
 }
-//teste
+//teste 01
