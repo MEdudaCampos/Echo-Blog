@@ -29,4 +29,4 @@ conn.sync().then(() => {
 
 app.use("/postagens", postagensRoutes)
 
-//teste de tudo
+//teste de tudo geral
