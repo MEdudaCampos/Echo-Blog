@@ -28,3 +28,5 @@ conn.sync().then(() => {
 }).catch()
 
 app.use("/postagens", postagensRoutes)
+
+//teste de tudo
